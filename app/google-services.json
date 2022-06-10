@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870877641342",
+    "project_id": "chat-app-f5b09",
+    "storage_bucket": "chat-app-f5b09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870877641342:android:bbc13d6caa6dc17197b62f",
+        "android_client_info": {
+          "package_name": "com.moringaschool.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870877641342-fv0heir6305gb5d8nlklai4uat9u60hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWRkb0WjIRJEiW63a-zmc48hWz7pUoOE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870877641342-fv0heir6305gb5d8nlklai4uat9u60hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
